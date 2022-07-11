@@ -141,7 +141,7 @@ return [
         ],
         'forms' => [
             'actions' => [
-                'alignment' => 'left',
+                'alignment' => 'center',
             ],
         ],
     ],

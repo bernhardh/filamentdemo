@@ -29,7 +29,5 @@ class AppServiceProvider extends ServiceProvider
             'Shop',
             'Blog',
         ]);
-
-        URL::forceScheme('https');
     }
 }
