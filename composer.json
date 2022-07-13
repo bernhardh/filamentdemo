@@ -18,7 +18,8 @@
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.7",
         "squirephp/countries-en": "^3.3",
-        "squirephp/currencies-en": "^3.3"
+        "squirephp/currencies-en": "^3.3",
+        "wireui/wireui": "^1.12"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
